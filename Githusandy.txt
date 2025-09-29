@@ -4,4 +4,5 @@ Untuk belajar Github harus mengetahui beberapa terminology berikut
 3.Branch
 4.Marge
 5.Clone
-6.Conflik
+7.Push
+8.Pull
