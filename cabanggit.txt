@@ -1,0 +1,3 @@
+Untuk memahami cabang git maka diperlukan
+1.Proses Branching
+2.Proses Commit
