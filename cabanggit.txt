@@ -1,3 +1,5 @@
 Untuk memahami cabang git maka diperlukan
 1.Proses Branching
 2.Proses Commit
+3.pool
+4.config
